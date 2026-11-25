@@ -28,7 +28,7 @@ ICMED, GK Consultoria e Exclusiva Pharma aparecem no início, com quatro trabalh
 
 ```sql
 insert into public.studio_owners (user_id)
-values ('9045d784-01f0-4688-8226-a4e45efe5887');
+values ('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 ```
 
 6. Nas configurações de autenticação, desative novos cadastros públicos. O aplicativo oferece apenas entrada. Apenas usuários autorizados na tabela `studio_owners` podem acessar os registros.
